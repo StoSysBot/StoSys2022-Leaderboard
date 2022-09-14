@@ -1,2 +1,0 @@
-	Group	Total Time (ms)
-0	group06	-3
