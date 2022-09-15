@@ -1,4 +1,0 @@
-	Group	Total Time (ms)
-0	group01	714
-0	group06	745
-0	group10	870
