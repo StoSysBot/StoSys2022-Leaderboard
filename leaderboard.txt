@@ -5,3 +5,4 @@
 0	group24	850
 0	group04	854
 0	group10	1015
+0	group18	13368
