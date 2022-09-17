@@ -6,4 +6,4 @@
 0	group04	854
 0	group10	1015
 0	group03	1114
-0	group18	13368
+0	group18	1171
