@@ -8,6 +8,6 @@
 0	group08	800
 0	group02	821
 0	group04	854
-0	group07	988
+0	group07	959
 0	group10	1015
 0	group18	1171
