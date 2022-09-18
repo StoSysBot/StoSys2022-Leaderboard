@@ -8,7 +8,7 @@
 0	group12	790
 0	group08	800
 0	group07	836
+0	group10	842
 0	group04	854
 0	group09	866
-0	group10	1015
 0	group18	1092
