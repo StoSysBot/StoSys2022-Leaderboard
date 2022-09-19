@@ -3,7 +3,6 @@
 0	group18	736
 0	group19	743
 0	group06	761
-0	group08	761
 0	group02	776
 0	group07	786
 0	group01	808
@@ -11,5 +10,6 @@
 0	group03	825
 0	group12	827
 0	group10	842
+0	group08	860
 0	group09	866
 0	group04	880
