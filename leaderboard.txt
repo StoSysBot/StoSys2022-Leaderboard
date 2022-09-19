@@ -12,4 +12,4 @@
 0	group04	840
 0	group10	842
 0	group09	866
-0	group16	1037
+0	group16	889
