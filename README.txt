@@ -3,4 +3,4 @@
 0	group04	26023
 0	group06	26218
 0	group08	36807
-0	group07	99191
+0	group07	60354
