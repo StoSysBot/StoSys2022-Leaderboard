@@ -5,4 +5,4 @@
 0	group04	26023
 0	group07	30694
 0	group08	36807
-0	group18	61130
+0	group18	38212
